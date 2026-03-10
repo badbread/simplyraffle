@@ -143,8 +143,4 @@ All modes use cryptographically weighted random selection proportional to ticket
 
 ---
 
-## Contact
-
-Built by **Jason Breaux** · [simplyraffle.com](https://www.simplyraffle.com)
-
-Source available on request for code review or technical discussion.
+> Source available on request for code review or technical discussion.
